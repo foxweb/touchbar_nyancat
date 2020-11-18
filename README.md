@@ -1,11 +1,13 @@
 # Touchbar Nyancat
 Stupid Nyan Cat animation on your +$2k MacBook Pro's Touchbar. Enjoy.
 
+[Download ⬇️](https://github.com/avatsaev/touchbar_nyancat/releases)
 
-[Video 📼](https://www.youtube.com/watch?v=E7Or2M7XUb4)
 
-[Download ⬇️](https://www.dropbox.com/s/3j18z84jctsecjf/touchbar_nyancat.app.zip?dl=0)
-
+# Instructions
+ - Download the app
+ - The app is not signed, if GateKeeper refuses to run it, you can bypass the Gatekeeper by right-clicking the app and then chose `Open` in context menu (one time operation).
+ - The animation appers in the TouchBar only when to app is in focus.
 
 ![](http://i.imgur.com/mHYg4vE.jpeg)
 
